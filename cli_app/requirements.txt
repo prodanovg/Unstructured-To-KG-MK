@@ -1,0 +1,6 @@
+itext2kg
+langchain-ollama
+python-dotenv
+pypdf
+python-docx
+neo4j
